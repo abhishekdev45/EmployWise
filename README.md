@@ -1,6 +1,11 @@
 # User Management App
 
 This is a React-based User Management application that allows users to log in, view, edit, and delete users. The application uses Redux Toolkit for state management, Axios for API calls, and Tailwind CSS for styling.
+## Live Demo
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen)](https://employ-wise-opal.vercel.app/)
+
+**👉 Click the link above to see the application in action!**
 
 ## Table of Contents
 - [Technologies Used](#technologies-used)
